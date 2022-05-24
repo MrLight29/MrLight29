@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrLight29
-- 👀 I’m interested in phyton language
+- 👀 I’m interested in python language
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marvinliwanag290@gmail.com
